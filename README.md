@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Shehram Aslam</h1>
+<h3 align="center">Frontend Developer</h3>
+
+<p align="center">learning Backend Development</p>
+
+
+
 # 💫 About Me:
 🖥️ I am a dedicated Frontend Developer.<br>👨🏻‍🎓 I am an Intermediate Part-II student.<br>🏫 Currently studying at Punjab College.<br>👩🏻‍💻 Building a strong portfolio to secure placement.
 
