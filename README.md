@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehram Aslam</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<p align="center">learning Backend Development</p>
+<p align="center">learning Backend Development | current aim is to become full stack web developer</p>
 
 
 
